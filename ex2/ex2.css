@@ -1,0 +1,25 @@
+* {
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.content {
+    background-color: #ffffff;
+    width: 315px;
+    margin: auto;
+    border: 3px solid #c1bcd1;
+    padding: 20px;
+    border-radius: 10px;
+    height: 220px;
+    margin: 8px;
+    text-align: center;
+}
+.content h2 {
+    font-size: 25px;
+    color: #bc2229;
+}
+.content p {
+    color: #2e2259;
+}
+table {
+    margin: auto;
+}

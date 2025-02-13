@@ -1,0 +1,45 @@
+* {
+    font-family: "Open Sans";
+    text-decoration: none;
+    color: #3f3567;
+}
+
+.container {
+    background-color: #eaeaea;
+    width: 600px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.icon td a {
+    display: flex;
+    padding: 2px;
+    margin: 2px;
+}
+
+.icon img {
+    width: 20px;
+    height: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.tu_van {
+    background-color: #bc2229;
+    color: #ffffff;
+    border-radius: 5px;
+}
+table {
+    border: 0;
+}
+.check {
+    border-radius: 5px;
+}
+

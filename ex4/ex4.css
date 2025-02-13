@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+.content {
+    font-weight: bold;
+    border-left: 5px solid orange;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.hinh-anh {
+    position: relative;
+    width: 100%;
+}
+
+.hinh-anh img {
+    width: 100%;
+    display: block;
+}
+
+.text-anh {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 5px;
+}
+
+.thong-tin p {
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.max {
+    background-color: #ffffff;
+    width: 600px;
+    margin: auto;
+    border: 1px solid #ffffff;
+    padding: 20px;
+}
+.dor {
+    border-bottom: 1px solid rgb(68, 67, 65);
+}
